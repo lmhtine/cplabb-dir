@@ -16,6 +16,8 @@ int main(){
     printf("Initial:%c\n", myInitial);
     printf("Student Status: %d", isDITstudent);
     printf("For Sample Change purposes");
+    printf("Sample changes for dev branch naman this time");
+    
    
     return 0;
 }
