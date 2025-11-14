@@ -15,6 +15,7 @@ int main(){
     printf("Height:%.2f\n", myHeight);
     printf("Initial:%c\n", myInitial);
     printf("Student Status: %d", isDITstudent);
+    printf("For Sample Change purposes");
    
     return 0;
 }
